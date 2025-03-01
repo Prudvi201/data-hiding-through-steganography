@@ -95,7 +95,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## Author
-**Chanukya Keerthi**
+**PRUDVINATH CHALLAPALLI**
 
 If you find any issues or have suggestions, feel free to contribute! 🚀
 
